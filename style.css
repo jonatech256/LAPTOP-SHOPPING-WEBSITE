@@ -48,3 +48,19 @@ h3{
     border: none;
     border-radius: 5px;
 }
+.container{
+    display: flex;
+    flex-direction: column;
+    border: solid 5px rgb(0, 148, 128);
+    align-items: center;
+    margin-top: 2% 20% 10% 20%;
+    
+
+}
+.item a{
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-style: none;
+    padding: 10px;
+    font-size: 20px;
+}
