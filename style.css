@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    font-weight: bolder;
+    color: rgb(4, 131, 57);
+    position: absolute;
+    left: 10%;
+}
+#cartIcon{
+    position: absolute;
+    left: 80%;
+    top: 5%;
+    width: 60px;
+}
+#itemsAdded{
+    position: absolute;
+    left: 85%;
+     top: 5%;
+     font-size: 25px;
+     font-weight: bold;
+}
+
+.lap1{
+    width: 350px;
+}
+.lap2{
+    width: 250px;
+}
+#product{
+    display: inline-block;
+    margin: 50px;
+    padding: 80px;
+    margin-top: 10%;
+    margin-left: 70px;
+}
+h3{ 
+    padding-top: 40px;
+}
+#addToCart{
+    background-color: aqua;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+}
